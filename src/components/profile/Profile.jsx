@@ -50,7 +50,7 @@ const Profile = () => {
           <div className="mt-8 flex max-md:justify-center">
             <a
               className="btn xxs:btn-lg px-6 max-xs:px-2 xxs:py-3 btn-primary text-xs xxs:text-[14px] sm:text-[16px]"
-              href="#!"
+              href="https://github.com/Orney2009"
             >
               Mes Projets
             </a>

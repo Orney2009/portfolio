@@ -8,7 +8,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const socialIcons = [
   { icon: faGithub, link: "https://github.com/Orney2009" },
   { icon: faKaggle, link: "https://www.kaggle.com/orlandododaho" },  
-  { icon: faLinkedin, link: "www.linkedin.com/in/orlando-dodaho-civilengineer-programming" },  
+  { icon: faLinkedin, link: "https://www.linkedin.com/in/orlando-dodaho-civilengineer-programming" },  
 ];
 
 const SocialMedia = () => {

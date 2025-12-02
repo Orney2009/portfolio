@@ -32,8 +32,8 @@ const Home = () => {
       <div className="blog-background">
         <Blog />
       </div>
-      <HappyClients />
-      <Testimonial />
+      {/* <HappyClients />
+      <Testimonial /> */}
       <Contact />
     </div>
   );
